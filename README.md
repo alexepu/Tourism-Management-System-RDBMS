@@ -1,4 +1,5 @@
 # Database Project Description
+<img width="298" height="177" alt="Untitled" src="https://github.com/user-attachments/assets/715370a6-d743-4d04-a621-e1842568c6c0" />
 
 ## Overview
 The chosen theme for this database project is a **Tourism Management System**, designed to manage destinations, tours, customers, bookings, and reviews. The database stores detailed information about travel regions, tourist destinations, organized tours, and customer interactions, enabling efficient data organization and analysis.
